@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./downloader"
-	"./utils"
+	"github.com/alessio/downloader"
+	"github.com/alessio/utils"
 	"encoding/json"
 	"flag"
 	"fmt"
