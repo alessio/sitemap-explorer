@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/alessio/downloader"
-	"github.com/alessio/utils"
+	"github.com/alessio/sitemap-explorer/downloader"
+	"github.com/alessio/sitemap-explorer/utils"
 	"encoding/json"
 	"flag"
 	"fmt"
